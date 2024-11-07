@@ -1,2 +1,2 @@
-# Solana
+#TON
 Telegram
